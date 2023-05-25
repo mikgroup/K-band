@@ -97,3 +97,22 @@ The config file consists of several important arguments:
 ```
 
 Some example configs for our experiments can be found in `deepinpy/configs`.
+
+# Citation
+
+If you use our code, please cite:
+
+```
+@inproceedings{wang2023kband,
+   title={{K-band: Training self-supervised reconstruction networks using limited-resolution data}},
+  author={F. Wang and Qi, Han and De Goyeneche, Alfredo, and Lustig, Michael and E. Shimron},
+  booktitle={Proceedings of the ISMRM Workshop on Data Sampling and Imaging Reconstruction, Sedona},
+  year={2023.}
+},
+@inproceedings{qi2023kband,
+   title={{K-band: Training self-supervised reconstruction networks using limited-resolution data}},
+  author={H. Qi and Wang, F. and  De Goyeneche, Alfredo, and Lustig, Michael and E. Shimron},
+  booktitle={Proceedings of the ISMRM Annual Meeting, Toronto},
+  year={2023.}
+},
+```
