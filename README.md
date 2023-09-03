@@ -1,4 +1,4 @@
-# [K-band: Self-supervised MRI Reconstruction via Stochastic Gradient Descent over K-space Subsets] (https://arxiv.org/abs/2308.02958)
+# [K-band: Self-supervised MRI Reconstruction via Stochastic Gradient Descent over K-space Subsets](https://arxiv.org/abs/2308.02958)
 
 ## Installation Instructions:
 
